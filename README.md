@@ -1,0 +1,1 @@
+![image](https://github.com/jiangguowu/vim-phpide/blob/master/linux%E4%B8%8Bphp%E5%BC%80%E5%8F%91%E5%8A%A8%E7%94%BB%E6%BC%94%E7%A4%BA.gif)
